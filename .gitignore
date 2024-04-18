@@ -1,3 +1,8 @@
+*.csv
+dummy_details_test_2323.csv
+Data/dummy_details_test_2323.csv
+Data/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
